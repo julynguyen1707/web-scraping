@@ -37,9 +37,16 @@ PS C:\Users\TranNguyen\Desktop\web_scraping> git commit -m "Add Steps"
 PS C:\Users\TranNguyen\Desktop\web_scraping> git push origin main
 
 ## III/ 10 GIT command
-git ad . 
+1/ 
+git add . 
     to update all new information into github
 git commit -m ""
 git commit -- amend -m"Change H1 to H2.."
     to change message
-    
+git push origin [current branch]
+
+2/ git diff
+3/ git log --oneline
+    to show all commits you have done
+4/ git clone [git url]
+> get git url > code > copy url and paste here
