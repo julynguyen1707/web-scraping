@@ -35,3 +35,11 @@ PS C:\Users\TranNguyen\Desktop\web_scraping> git commit -m "Add Steps"
 [main a7e6019] Add Steps
  1 file changed, 28 insertions(+)
 PS C:\Users\TranNguyen\Desktop\web_scraping> git push origin main
+
+## III/ 10 GIT command
+git ad . 
+    to update all new information into github
+git commit -m ""
+git commit -- amend -m"Change H1 to H2.."
+    to change message
+    
